@@ -36,15 +36,15 @@ body {
   gap: 6px;
 }
 
-.component__input {
-  position: relative;
-}
-
-.component__input label {
+.component label {
   font-weight: 500;
   font-size: 14px;
   line-height: 20px;
   color: #404040;
+}
+
+.component__input {
+  position: relative;
 }
 
 .component__input input {
